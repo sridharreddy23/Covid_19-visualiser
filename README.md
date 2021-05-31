@@ -4,7 +4,7 @@ This is a covid timeline report from the on-set of covid 19 and it's plotted usi
 Run it using the following command:
 Python3 covid.py
 
-Output is attached below.
+Output is attached.
 
 
 Suggestions are welcome:)
